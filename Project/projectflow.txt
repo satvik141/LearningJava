@@ -1,0 +1,9 @@
+1) learn networking in java
+2) transfer files in a network
+    a) client that sends
+    b) server that receves
+    c) a and b may be same
+	final
+    there shouldn't be any server
+3) url shortener
+4) change url after receved
